@@ -1,0 +1,2 @@
+First version: prototype with balanced RTP version 97.00
+Second version: prototype with gold frame >=2, and 1 = got chance become wild frame.
